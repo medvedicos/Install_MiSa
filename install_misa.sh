@@ -1,3 +1,5 @@
+#!/bin/bash
+
 curl -f https://raw.githubusercontent.com/medvedicos/Install_MiSa/refs/heads/main/gethosts \
      --output /etc/init.d/gethosts
 chmod +x /etc/init.d/gethosts
