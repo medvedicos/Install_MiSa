@@ -35,6 +35,7 @@ ff02::2 ip6-allrouters
 149.154.167.220 zws4-1.web.telegram.org
 
 130.255.77.28 ntc.party
+
 185.246.223.127 ai.google.dev
 185.246.223.127 aisandbox-pa.googleapis.com
 185.246.223.127 aistudio.google.com
@@ -75,6 +76,7 @@ ff02::2 ip6-allrouters
 185.246.223.127 suggestqueries.google.com
 185.246.223.127 waa-pa.clients6.google.com
 185.246.223.127 webchannel-alkalimakersuite-pa.clients6.google.com
+
 185.246.223.127 a-api.anthropic.com
 185.246.223.127 a-cdn.anthropic.com
 185.246.223.127 anthropic.com
@@ -91,6 +93,7 @@ ff02::2 ip6-allrouters
 185.246.223.127 www.anthropic.com
 185.246.223.127 www.claude.ai
 185.246.223.127 platform.claude.com
+
 185.246.223.127 ab.chatgpt.com
 185.246.223.127 android.chat.openai.com
 185.246.223.127 api.openai.com
@@ -135,8 +138,7 @@ ff02::2 ip6-allrouters
 185.246.223.127 webrtc.chatgpt.com
 185.246.223.127 www.chatgpt.com
 185.246.223.127 www.openai.com
-185.246.223.127 tiktok.com
-185.246.223.127 www.tiktok.com
+
 185.246.223.127 accounts.scdn.co
 185.246.223.127 accounts.spotify.com
 185.246.223.127 aet.spotify.com
@@ -171,6 +173,7 @@ ff02::2 ip6-allrouters
 185.246.223.127 web-sdk-assets.spotifycdn.com
 185.246.223.127 www-growth.scdn.co
 185.246.223.127 www.spotify.com
+
 185.246.223.127 api-free.deepl.com
 185.246.223.127 api.deepl.com
 185.246.223.127 auth.deepl.com
@@ -203,6 +206,7 @@ ff02::2 ip6-allrouters
 185.246.223.127 w.deepl.com
 185.246.223.127 write-free.www.deepl.com
 185.246.223.127 www.deepl.com
+
 185.246.223.127 copilot.microsoft.com
 185.246.223.127 designer.microsoft.com
 185.246.223.127 designerapp.officeapps.live.com
