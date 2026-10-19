@@ -4,6 +4,7 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+##Insta
 57.144.244.34 instagram.com www.instagram.com
 57.144.244.192 static.cdninstagram.com graph.instagram.com i.instagram.com api.instagram.com edge-chat.instagram.com
 57.144.244.1 fbcdn.net facebook.com fb.com fbsbx.com
@@ -11,8 +12,10 @@ ff02::2 ip6-allrouters
 57.144.244.128 static.xx.fbcdn.net scontent.xx.fbcdn.net
 31.13.67.20 scontent-hel3-1.xx.fbcdn.net
 
+##NTC
 130.255.77.28 ntc.party
 
+##Gemini
 185.246.223.127 ai.google.dev
 185.246.223.127 aisandbox-pa.googleapis.com
 185.246.223.127 aistudio.google.com
@@ -54,6 +57,7 @@ ff02::2 ip6-allrouters
 185.246.223.127 waa-pa.clients6.google.com
 185.246.223.127 webchannel-alkalimakersuite-pa.clients6.google.com
 
+##Claude
 185.246.223.127 a-api.anthropic.com
 185.246.223.127 a-cdn.anthropic.com
 185.246.223.127 anthropic.com
@@ -71,6 +75,7 @@ ff02::2 ip6-allrouters
 185.246.223.127 www.claude.ai
 185.246.223.127 platform.claude.com
 
+##ChatGPT
 185.246.223.127 ab.chatgpt.com
 185.246.223.127 android.chat.openai.com
 185.246.223.127 api.openai.com
@@ -116,6 +121,8 @@ ff02::2 ip6-allrouters
 185.246.223.127 www.chatgpt.com
 185.246.223.127 www.openai.com
 
+
+##Spotify
 185.246.223.127 accounts.scdn.co
 185.246.223.127 accounts.spotify.com
 185.246.223.127 aet.spotify.com
@@ -151,6 +158,8 @@ ff02::2 ip6-allrouters
 185.246.223.127 www-growth.scdn.co
 185.246.223.127 www.spotify.com
 
+
+##Deepl
 185.246.223.127 api-free.deepl.com
 185.246.223.127 api.deepl.com
 185.246.223.127 auth.deepl.com
@@ -184,6 +193,8 @@ ff02::2 ip6-allrouters
 185.246.223.127 write-free.www.deepl.com
 185.246.223.127 www.deepl.com
 
+
+##Copilot
 185.246.223.127 copilot.microsoft.com
 185.246.223.127 designer.microsoft.com
 185.246.223.127 designerapp.officeapps.live.com
@@ -195,3 +206,22 @@ ff02::2 ip6-allrouters
 185.246.223.127 xgpuweb.gssv-play-prod.xboxlive.com
 185.246.223.127 xgpuwebf2p.gssv-play-prod.xboxlive.com
 185.246.223.127 xsts.auth.xboxlive.com
+
+##Roblox
+108.156.22.8 tr.rbxcdn.com
+108.157.32.114 tr.rbxcdn.com
+18.65.147.108 tr.rbxcdn.com
+18.65.147.112 tr.rbxcdn.com
+13.224.181.18 tr.rbxcdn.com
+13.224.181.74 tr.rbxcdn.com
+54.230.253.22 tr.rbxcdn.com
+54.230.253.81 tr.rbxcdn.com
+54.230.253.48 tr.rbxcdn.com
+54.230.253.59 tr.rbxcdn.com
+143.204.214.34 tr.rbxcdn.com
+143.204.214.67 tr.rbxcdn.com
+143.204.214.92 tr.rbxcdn.com
+99.84.181.25 tr.rbxcdn.com
+99.84.181.63 tr.rbxcdn.com
+65.8.158.45 tr.rbxcdn.com
+65.8.158.112 tr.rbxcdn.com
