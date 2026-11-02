@@ -4,6 +4,39 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
+##Youtube
+80.252.155.12 rr16---sn-axq7sn76.googlevideo.com
+80.252.155.12 rr14---sn-n8v7kn7r.googlevideo.com
+80.252.155.12 rr2---sn-q4fl6ndl.googlevideo.com
+80.252.155.12 rr1---sn-q4fl6n6y.googlevideo.com
+80.252.155.12 rr5---sn-n8v7knez.googlevideo.com
+80.252.155.12 rr4---sn-q4flrnsl.googlevideo.com
+80.252.155.12 rr4---sn-4g5e6nze.googlevideo.com
+80.252.155.12 rr2---sn-q4fl6ndl.googlevideo.com
+80.252.155.12 rr4---sn-jvhnu5g-c35d.googlevideo.com
+80.252.155.12 rr1---sn-xguxaxjvh-gufl.googlevideo.com
+80.252.155.12 manifest.googlevideo.com
+80.252.155.12 r1---sn-f5f7kn7e.googlevideo.com
+80.252.155.12 r2---sn-f5f7kn7e.googlevideo.com
+80.252.155.12 r3---sn-f5f7kn7e.googlevideo.com
+80.252.155.12 r4---sn-f5f7kn7e.googlevideo.com
+80.252.155.12 r5---sn-f5f7kn7e.googlevideo.com
+80.252.155.12 r1---sn-f5f7lnl7.googlevideo.com
+80.252.155.12 r2---sn-f5f7lnl7.googlevideo.com
+80.252.155.12 r3---sn-f5f7lnl7.googlevideo.com
+80.252.155.12 r4---sn-f5f7lnl7.googlevideo.com
+80.252.155.12 r5---sn-f5f7lnl7.googlevideo.com
+80.252.155.12 r1---sn-4g5e6nzz.googlevideo.com
+80.252.155.12 r2---sn-4g5e6nzz.googlevideo.com
+80.252.155.12 r3---sn-4g5e6nzz.googlevideo.com
+80.252.155.12 r4---sn-4g5e6nzz.googlevideo.com
+80.252.155.12 r5---sn-4g5e6nzz.googlevideo.com
+80.252.155.12 r1---sn-4g5ednkl.googlevideo.com
+80.252.155.12 r2---sn-4g5ednkl.googlevideo.com
+80.252.155.12 r3---sn-4g5ednkl.googlevideo.com
+80.252.155.12 r4---sn-4g5ednkl.googlevideo.com
+80.252.155.12 r5---sn-4g5ednkl.googlevideo.com
+
 ##Insta
 57.144.222.34 instagram.com
 57.144.222.34 www.instagram.com
