@@ -727,3 +727,5 @@ ff02::2 ip6-allrouters
 0.0.0.0 reef.vk-cdn.net
 ##Discord
 162.159.134.234 discord.com www.discord.com updates.discord.com cdn.discordapp.com media.discordapp.net images-ext-1.discordapp.net images-ext-2.discordapp.net gateway.discord.gg discord.gg discordapp.com discordapp.net discordcdn.com latency.discord.media
+##X-Twitter
+162.159.134.234 x.com www.x.com twitter.com www.twitter.com abs.twimg.com pbs.twimg.com video.twimg.com ton.twimg.com t.co api.x.com api.twitter.com
