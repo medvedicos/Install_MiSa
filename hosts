@@ -10,7 +10,6 @@ ff02::2 ip6-allrouters
 157.240.205.63 scontent.cdninstagram.com scontent-hel3-1.cdninstagram.com scontent.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net
 57.144.244.192 scontent.cdninstagram.com scontent-hel3-1.cdninstagram.com scontent.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net
 57.144.244.128 static.xx.fbcdn.net
-
 ##NTC
 130.255.77.28 ntc.party
 
@@ -726,3 +725,5 @@ ff02::2 ip6-allrouters
 0.0.0.0 yandexmetrica.com
 0.0.0.0 yango-ads.com
 0.0.0.0 reef.vk-cdn.net
+##Discord
+162.159.134.234 discord.com www.discord.com updates.discord.com cdn.discordapp.com media.discordapp.net images-ext-1.discordapp.net images-ext-2.discordapp.net gateway.discord.gg discord.gg discordapp.com discordapp.net discordcdn.com latency.discord.media
